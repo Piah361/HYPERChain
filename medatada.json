@@ -1,0 +1,23 @@
+{
+  "name": "HYPER token",
+  "symbol": "HYPER",
+  "description": "My awesome HYPER token",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/Piah361/HYPERChain/refs/heads/main/HYPER.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Piah361/HYPERChain/refs/heads/main/HYPER.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "hypJoE4bhcriDrJMRfmsyTTCY9Va2tQvuj3xZ8vifoN",
+        "share": 100
+      }
+    ]
+  }
+}
